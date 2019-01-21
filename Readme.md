@@ -23,7 +23,7 @@ How to use
 ----------
 - 다음과 같이 Tool을 실행하여, 올바른 정보를 입력합니다.
 ```
-$ python3 main.py
+$ python3 main.py (소스파일) (문제번호)
 ```
 
 - Tool 실행시 다음과 같이 BOJ의 회원 정보와 GitHub의 회원 정보 및 Repository 이름을 입력하여야 합니다.
