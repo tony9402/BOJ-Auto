@@ -26,6 +26,8 @@ How to use
 $ python3 main.py (소스파일) (문제번호)
 ```
 
+ex) python3 main.py main.cpp 1000
+
 - Tool 실행시 다음과 같이 BOJ의 회원 정보와 GitHub의 회원 정보 및 Repository 이름을 입력하여야 합니다.
 
 | **Input**            | **Description**
