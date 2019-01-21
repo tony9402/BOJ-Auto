@@ -1,4 +1,4 @@
-BOJ_AUTO
+BOJ-Auto
 ==========
 [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net)
 ----------
@@ -9,7 +9,7 @@ BOJ_AUTO
 Installation
 ----------
 ```
-$ git clone https://github.com/tony9402/BOJ_AUTO
+$ git clone https://github.com/tony9402/BOJ-Auto
 ```
 
 **Dependency**
