@@ -58,7 +58,7 @@ class Git:
     def pull(self):
         url = repo_url % (self.user_id, self.repo_name)
         cwd = self.repo_name
-        command = ['git','pull',url]
+        command = ['git','pull']
 
         proc = subprocess.Popen(command, cwd=cwd, stdout=self.pipe, stderr=self.pipe)
         stdout, stderr = proc.communicate()
@@ -164,6 +164,7 @@ class Git:
     
     def run(self):
         self.load_user_data()
+        self.pull()
         self.set_mkdir()
 
         print(self.repo_name)
