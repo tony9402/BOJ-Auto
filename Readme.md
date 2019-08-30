@@ -1,5 +1,9 @@
 BOJ-Auto
 ==========
+
+# Baekjoon reCaptcha의 등장으로 사용 불가능
+
+
 [![](https://d2gd6pc034wcta.cloudfront.net/images/logo.png)](https://www.acmicpc.net)
 ----------
 'BOJ_AUTO'는 [Baekjoon Online Judge](https://www.acmicpc.net)의 다양한 알고리즘 문제를 풀어서 원격으로 소스를 제출하고 제출한 소스로 정답을 맞추면 [Github](https://github.com)에 Source Code를 Push합니다. 이 소스는 'Python 3'을 기반으로 만들어졌습니다.
